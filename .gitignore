@@ -1,3 +1,6 @@
+# file to analyse
+baserd01-filesystem-timeline.csv
+base-rd-01-supertimeline.csv
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
