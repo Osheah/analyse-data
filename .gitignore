@@ -5,7 +5,8 @@ base-rd-01-supertimeline.csv
 __pycache__/
 *.py[cod]
 *$py.class
-
+# vscode
+.vscode
 # C extensions
 *.so
 
