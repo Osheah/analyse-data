@@ -12,6 +12,7 @@ Download the repo. Open a cli and navigate to the repo. Type ```jupyter notebook
 The directory structure is as follows
 - images - directory to store images that are in the ipynb file (it contains on picture of MACB notation) 
 - **analyse-data.ipynb** - the main file
+- analyse-data.py - this is the same as the jupyter notebook but in py format to run on the command line
 - base-rd-01-supertimeline.csv - not uploaded to github but required. This is the file that is analysed in the data and was taken from course material.
 - baserd01-filesystem-timeline.csv - not uploaded to github - not required
 - LICENSE - GNU GENERAL PUBLIC LICENSE Version 3
